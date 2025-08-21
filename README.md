@@ -29,7 +29,3 @@ The sidebar is *responsive, interactive, and user-friendly*, serving as the main
 - *CSS3 (Flexbox/Grid)* → Styling & layout  
 - *JavaScript (Vanilla)* → Sidebar toggle functionality  
 - (Optional Enhancements): FontAwesome / Google Fonts for icons & typography  
-
-
-
-📂 Folder Structure
